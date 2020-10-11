@@ -2,13 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="793564b1-7979-4ed4-824d-19336e1c6e7c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/blogfile/static/css/blogfile.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogfile/templates/blogfile/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/blogfile/templates/blogfile/post_detail.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogfile/templates/blogfile/post_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/blogfile/templates/blogfile/post_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogfile/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogfile/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/blogfile/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/blogfile/views.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
